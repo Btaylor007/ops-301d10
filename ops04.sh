@@ -30,4 +30,5 @@ fi
 
   # Press Enter to continue
   read -n 1 -r -p "Press Enter to continue..."
+  #https://linuxhint.com/bash_conditional_statement/ website cited 
 done
